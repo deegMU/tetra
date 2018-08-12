@@ -1,0 +1,17 @@
+WalkHistory::clear()
+Set main program file to  "/home/rybkin/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64/mytetra"
+Debug message before set message handler for target OS:  "any"
+Set alternative handler myMessageOutput() for debug message
+15:29:12 [INI] Debug message after set message handler
+15:29:12 [INI] Check full current path  "/home/rybkin/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64"
+15:29:12 [INI] Check config file  "/home/rybkin/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64/conf.ini"
+15:29:12 [INI] Detect home directory  "/home/rybkin/.mytetra"
+15:29:12 [INI] Check config file  "/home/rybkin/.mytetra/conf.ini"
+15:29:12 [INI] File conf.ini can't' find in home directory  "/home/rybkin/.mytetra"
+15:29:12 [INI] Try find conf.ini in home subdirectory  "/home/rybkin/.config/mytetra"
+15:29:12 [INI] Check config file  "/home/rybkin/.config/mytetra/conf.ini"
+15:29:12 [INI] Config file  "/home/rybkin/.config/mytetra/conf.ini"  is exists
+15:29:12 [INI] Short config file name  "conf.ini"
+15:29:12 [INI] Config directory name  "/home/rybkin/.config/mytetra"
+15:29:12 [INI] Config init file success find in home subdirectory  "/home/rybkin/.config/mytetra"
+15:29:12 [INI] Set work directory to  "/home/rybkin/.config/mytetra"
