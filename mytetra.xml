@@ -5,7 +5,11 @@
  <content>
   <node crypt="1" icon="" id="1300000000aaaaaaaaa1" name="UkM1U0lNUAMbbggGl5+7rT9jT/t//kSld8wopIP8GzoKm2p0IDk8b0DE3Bz6pHD7">
    <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="UkM1U0lNUANZdcYtmXkJw6b0xvl3jd7W+DEhu7NiF7b3ylU7yomMVl1xJ3Ur43oXVC6wJJHwyxKSY2rGkOjUgg==" author="" url="" tags="UkM1U0lNUAOs2H4hnqy6F2JR7TdOXQprb4r17Y3ob9ZQhX9PfDOAtVe+RegAOTmdtVc2cAz+bI8=" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html" crypt="1"/>
+    <record id="1300000000aaaaaaaaa3" name="UkM1U0lNUANZdcYtmXkJw6b0xvl3jd7W+DEhu7NiF7b3ylU7yomMVl1xJ3Ur43oXVC6wJJHwyxKSY2rGkOjUgg==" author="" url="" tags="UkM1U0lNUAOs2H4hnqy6F2JR7TdOXQprb4r17Y3ob9ZQhX9PfDOAtVe+RegAOTmdtVc2cAz+bI8=" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html" crypt="1">
+     <files>
+      <file id="1534094091atjp44rvfl" fileName="UkM1U0lNUAO+qqzg0jfxBZkYoAyDN0z3L95urUF03jIUSy8vr2pKFFP64bUiwxKvK7CFYow7FEw=" type="file" crypt="1"/>
+     </files>
+    </record>
    </recordtable>
    <node crypt="1" icon="" id="1533842852jdw9kvq5ia" name="UkM1U0lNUANDZcgb5Oq5kIJoGnohya03XMKJqHXivsa1EE7iMzFKE0WhwGnEFw2G">
     <recordtable>
