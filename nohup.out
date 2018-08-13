@@ -91,3 +91,20 @@ Set alternative handler myMessageOutput() for debug message
 19:57:02 [INI] Config directory name  "/home/rybkin/.config/mytetra"
 19:57:02 [INI] Config init file success find in home subdirectory  "/home/rybkin/.config/mytetra"
 19:57:02 [INI] Set work directory to  "/home/rybkin/.config/mytetra"
+WalkHistory::clear()
+Set main program file to  "/home/mike/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64/mytetra"
+Debug message before set message handler for target OS:  "any"
+Set alternative handler myMessageOutput() for debug message
+09:42:38 [INI] Debug message after set message handler
+09:42:38 [INI] Check full current path  "/home/mike/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64"
+09:42:38 [INI] Check config file  "/home/mike/Ð\u0097Ð°Ð³Ñ\u0080Ñ\u0083Ð·ÐºÐ¸/mytetra/mytetra_1_43_27_lin_64/conf.ini"
+09:42:38 [INI] Detect home directory  "/home/mike/.mytetra"
+09:42:38 [INI] Check config file  "/home/mike/.mytetra/conf.ini"
+09:42:38 [INI] File conf.ini can't' find in home directory  "/home/mike/.mytetra"
+09:42:38 [INI] Try find conf.ini in home subdirectory  "/home/mike/.config/mytetra"
+09:42:38 [INI] Check config file  "/home/mike/.config/mytetra/conf.ini"
+09:42:38 [INI] Config file  "/home/mike/.config/mytetra/conf.ini"  is exists
+09:42:38 [INI] Short config file name  "conf.ini"
+09:42:38 [INI] Config directory name  "/home/mike/.config/mytetra"
+09:42:38 [INI] Config init file success find in home subdirectory  "/home/mike/.config/mytetra"
+09:42:38 [INI] Set work directory to  "/home/mike/.config/mytetra"
