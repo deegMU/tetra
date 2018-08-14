@@ -108,3 +108,6 @@ Set alternative handler myMessageOutput() for debug message
 09:42:38 [INI] Config directory name  "/home/mike/.config/mytetra"
 09:42:38 [INI] Config init file success find in home subdirectory  "/home/mike/.config/mytetra"
 09:42:38 [INI] Set work directory to  "/home/mike/.config/mytetra"
+
+Start MyTetra v.1.43.27
+
